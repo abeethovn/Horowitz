@@ -6,8 +6,8 @@ public class Horowitz {
 		
 		// this is a hot fix
 		//
-		//
-		//
+		// I have fixed some code here
+		// this is my hot fix
 		//
 		//
 		
