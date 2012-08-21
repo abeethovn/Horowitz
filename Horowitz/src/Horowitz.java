@@ -8,10 +8,7 @@ public class Horowitz {
 		//
 		// I have fixed some code here
 		// this is my hot fix
-		//
-		//
-		
-		// i have fixed some stuff here
+		//some stuff here
 		
 		
 		
