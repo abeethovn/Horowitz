@@ -5,8 +5,7 @@ public class Horowitz {
 		
 		// this is a hot fix
 		// I have fixed some code here
-		// this is my hot fix
-		//some stuff here
+
 		
 		/*
 		 * and this is where i change issue 53
